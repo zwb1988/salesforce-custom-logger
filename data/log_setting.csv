@@ -1,0 +1,6 @@
+"NAME","SHORT_DESCRIPTION__C","VALUE__C"
+"Log_Level","Default log level for loggers. Values from LoggingLevel enum class","DEBUG"
+"Class_DBLogger","Class name for the database logger","DatabaseLogger"
+"Classes_STD_Logger","A list of class names for standard loggers. Separated by commas (managed by LoggerManager)","ConsoleLogger,DatabaseLogger"
+"Enabled","Turn the loggers on if the value is TRUE, FALSE otherwise","TRUE"
+"Max_Log_Length","Maximum length for the log message","131072"
